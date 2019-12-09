@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Geoplus",
+            "request": "launch",
+            "mainClass": "app.Geoplus",
+            "projectName": "Geoplus"
+        }
+    ]
+}
